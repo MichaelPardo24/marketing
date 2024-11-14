@@ -1,0 +1,39 @@
+# Node.js (para Angular)
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+/.yarn-integrity
+/.pnp
+/.pnp.js
+
+# Angular build outputs
+/dist/
+/out-tsc/
+
+# Composer (para PHP)
+/vendor/
+
+# PHPUnit
+.phpunit.result.cache
+
+# IDEs and Editors
+.vscode/
+/.idea/
+/.project
+.classpath
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+/.env
+*.bak
+*.swp
